@@ -1,12 +1,8 @@
 title: "DynaMIT1: GFR" # your name (or website title) here
 logo: "/images/dynamit-logo.webp?raw=true" # your photo (or logo) here
-# description: > # your text below (remove <br> elements if you don't need line breaks)
-# First description 
-#  <br><br>
-#  Second description 
-#  <br><br>
-#  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
+description: > # your text below (remove <br> elements if you don't need line breaks)
+"På denne side kan du finde vores projektdokumenter vedrørende projekt DynaMIT1: GFR"
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
