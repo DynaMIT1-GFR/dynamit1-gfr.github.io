@@ -4,8 +4,8 @@
 
 ### Første PDF-fil
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Projektprotokol](/pdf/sample_presentation.pdf)
+# <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
