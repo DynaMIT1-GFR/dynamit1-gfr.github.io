@@ -1,21 +1,14 @@
 ## Projektdokumenter
 
----
-
-### Første PDF-fil
-
 [Projektprotokol](/pdf/sample_presentation.pdf)
-# <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
 
-### Category Name 2
+## Holdet bag
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- Person 1 <img src="images/profile-default.jpg?raw=true" width="50"/>
+- Person 2 <img src="images/profile-default.jpg?raw=true" width="50"/>
 
 ---
 
