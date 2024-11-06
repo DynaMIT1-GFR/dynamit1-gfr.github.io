@@ -6,10 +6,11 @@ I projektet DynaMIT1:GFR (Dynamic Molecular Imagaing Techniques 1: GFR) vil vi v
 
 ## Projektdokumenter
 
-[Protokolresumé](/pdf/protokolresumé v2.pdf)
-[Projektprotokol](/pdf/sample_presentation.pdf)
-[Deltagerinformation](/pdf/Deltagerinformation v3_ændringer acceperet.doc.pdf)
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+[Protokolresumé](/pdf/protokolresume.pdf)
+
+[Projektprotokol](/pdf/protokol.pdf)
+
+[Deltagerinformation](/pdf/deltagerinformation.pdf)
 
 ---
 
