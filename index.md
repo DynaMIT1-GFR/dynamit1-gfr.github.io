@@ -12,6 +12,8 @@ I projektet DynaMIT1:GFR (Dynamic Molecular Imagaing Techniques 1: GFR) vil vi v
 
 [Deltagerinformation](/pdf/deltagerinformation.pdf)
 
+[Flyer](/pdf/flyer.pdf)
+
 ---
 
 ## Holdet bag
