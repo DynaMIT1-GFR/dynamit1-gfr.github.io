@@ -8,7 +8,7 @@ I projektet DynaMIT1:GFR (Dynamic Molecular Imagaing Techniques 1: GFR) vil vi v
 
 [Protokolresumé](/pdf/protokolresume.pdf)
 
-[Projektprotokol](/pdf/protokol.pdf)
+[Projektprotokol](/pdf/projektprotokol.pdf)
 
 [Deltagerinformation](/pdf/deltagerinformation.pdf)
 
