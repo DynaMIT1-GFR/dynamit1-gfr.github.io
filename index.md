@@ -23,7 +23,7 @@ Bag projektet står fem ansatte på Nuklearmedicinsk Afdeling, Odense Universite
 - Ledende overlæge Jane Simonsen
 - Fysiker Christian Walther Andersen
 - Hospitalsfysiker Svend Hvidsten
-- Kemiker Monika Grazyna Skulska
+- Radiokemiker Monika Grazyna Skulska
 - Fysiker Kasper Thilsing-Hansen
 
 ---
