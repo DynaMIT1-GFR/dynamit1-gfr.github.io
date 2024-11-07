@@ -1,6 +1,6 @@
 ## Projektet
 
-I projektet DynaMIT I: GFR (Dynamic Molecular Imagaing Techniques I: GFR) vil vi vise, at man kan måle nyrernes glomerulære filtrationsrate med dynamisk SPECT. I dokumenterne her på siden kan den interesserede læser finde mere information om projektet.
+I projektet DynaMIT I: GFR (Dynamic Molecular Imaging Techniques I: GFR) vil vi vise, at man kan måle nyrernes glomerulære filtrationsrate med dynamisk SPECT. I dokumenterne her på siden kan den interesserede læser finde mere information om projektet.
 
 ---
 
