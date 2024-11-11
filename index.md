@@ -10,8 +10,6 @@ I projektet DynaMIT I: GFR (Dynamic Molecular Imaging Techniques I: GFR) vil vi 
 
 [Projektprotokol](/pdf/projektprotokol.pdf)
 
-[Deltagerinformation](/pdf/deltagerinformation.pdf)
-
 [Flyer](/pdf/flyer.pdf)
 
 ---
